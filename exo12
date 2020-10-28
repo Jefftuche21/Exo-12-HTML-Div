@@ -6,34 +6,33 @@
 
     </head>
     <body>
-        <div>
-            <p style="color: brown">
-
+            <h1>anniversaire</h1>
+        <div style="text-align: right;">
+            <p style="color:chartreuse">
                 En ce jour si particulier, c'est toi le roi de la journée ! Profite bien de ce jour ou tout t'est permis, ou
-            presque... Heureux anniversaire !
-            Aujourd'hui est un jour doublement important : celui où l'on te souhaite un joyeux anniversaire, et celui où
-            l'on te rappelle par ces quelques mots que tu es une personne importante à nos yeux.
-            Heureux anniversaire!
+                presque... Heureux anniversaire !
+                Aujourd'hui est un jour doublement important : celui où l'on te souhaite un joyeux anniversaire, et celui où
+                l'on te rappelle par ces quelques mots que tu es une personne importante à nos yeux.
+                Heureux anniversaire!
         </div>
             </p>
-        <div>
-            <p>
-            Que cette nouvelle année qui démarre pour toi te soit riche en cadeaux bien sûr, mais n'oublie pas que le
-            plus beau cadeau est celui que t'offre la vie : être en pleine santé, faire de nouvelles rencontres, vivre
-            prospère et épanoui ! Excellent anniversaire.
-            Bon anniversaire à toi, reste fidèle à toi-même et à ton humour qui nous fait bien rire, et qui, je l'espère,
-            nous fera rire encore longtemps !
-        </div>
+        </div style="text-align: right;">
+            <p style="color:blue">
+                Que cette nouvelle année qui démarre pour toi te soit riche en cadeaux bien sûr, mais n'oublie pas que le
+                plus beau cadeau est celui que t'offre la vie : être en pleine santé, faire de nouvelles rencontres, vivre
+                prospère et épanoui ! Excellent anniversaire.
+                Bon anniversaire à toi, reste fidèle à toi-même et à ton humour qui nous fait bien rire, et qui, je l'espère,
+                nous fera rire encore longtemps !
             </p>
-        <div>
-            <p>
-            Chaque année qui passe est une difficulté supplémentaire pour souffler les bougies. Heureusement, tu peux
-            compter sur tes amis les plus fidèles pour t'aider à surmonter cette terrible épreuve ! Joyeux anniversaire !
-            La jeunesse, c'est dans la tête, et pour cela je sais bien que tu as prévu de rester éternellement jeune...
-            Profite donc de ce bel anniversaire qui t'attend en cette journée !
-            Recette pour un anniversaire réussi : des proches pour te le souhaiter, des amis pour le fêter, beaucoup de
-            cadeaux pour te gâter... Voilà ces trois éléments réunis aujourd'hui, faisons de cette journée un moment
-            magique. Joyeux anniversaire.
+        <div style="text-align: right;">
+            <p> style="color:crimson"
+                Chaque année qui passe est une difficulté supplémentaire pour souffler les bougies. Heureusement, tu peux
+                compter sur tes  amis les plus fidèles pour t'aider à surmonter cette terrible épreuve ! Joyeux anniversaire !
+                La jeunesse, c'est dans la tête, et pour cela je sais bien que tu as prévu de rester éternellement jeune...
+                Profite donc de ce bel anniversaire qui t'attend en cette journée !
+                Recette pour un anniversaire réussi : des proches pour te le souhaiter, des amis pour le fêter, beaucoup de
+                cadeaux pour te gâter... Voilà ces trois éléments réunis aujourd'hui, faisons de cette journée un moment
+                magique. Joyeux anniversaire.
         </div>
             </p>
     </body>
